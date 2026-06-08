@@ -1,0 +1,6 @@
+framework module Pods_222PigeonTheory {
+  umbrella header "Pods-222PigeonTheory-umbrella.h"
+
+  export *
+  module * { export * }
+}
